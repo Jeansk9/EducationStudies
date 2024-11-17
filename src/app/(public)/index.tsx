@@ -44,11 +44,10 @@ export default function SignIn() {
 
   return (
     <View style={styles.container}>
-      <Image
-        source={{
-          uri: "https://your-image-url.com/icon.png",
-        }}
-        style={styles.icon}
+       <Image
+        source={require('../../assets/backgroun.jpg')} // Substitua pelo caminho correto da sua imagem
+        width={50}
+        height={100}
       />
       <Text style={styles.title}>Bem-vindo!</Text>
       <Text style={styles.subtitle}>Faça login para acessar o app</Text>
