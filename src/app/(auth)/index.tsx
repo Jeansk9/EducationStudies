@@ -24,9 +24,10 @@ export default function PublicScreen() {
     - Acesse vídeos educativos de alta qualidade.
     - Organize seus estudos e acompanhe o progresso.
     - Amplie seus conhecimentos com conteúdos atualizados.
+    - Nunca é tarde para aprender.
   </Text>
   
-  <Text style={styles.callToAction}>Comece sua jornada de aprendizado hoje mesmo!</Text>
+  <Text style={styles.callToAction}>Comece sua jornada de aprendizado hoje mesmo! </Text>
   <VideoListScreen/>
 </View>
 
@@ -55,7 +56,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   description: {
-    fontSize: 16,
+    fontSize: 18,
     color: '#666', // Cor neutra para descrição
     lineHeight: 22, // Altura de linha para facilitar a leitura
     textAlign: 'center', // Centralizado
