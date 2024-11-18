@@ -3,18 +3,15 @@ import { FlatList, StyleSheet, View, Text } from 'react-native';
 import YouTube from 'react-native-youtube-iframe';
 
 // Lista de vídeos educativos com título e IDs do YouTube
+
 const videos = [
-  { id: '1', title: 'Aprendendo o Alfabeto do Zero', videoId: 'VbvVC8_Rp54' },
-  { id: '2', title: 'Formação de Palavras Simples', videoId: 'FxV4GMcb1HI' },
-  { id: '3', title: 'Como Ler Sílabas Básicas', videoId: 'eQ_mptGOHW8' },
-  { id: '4', title: 'Escrita e Leitura para Adultos Iniciantes', videoId: 'Qy8oU5r6GQI' },
-  { id: '5', title: 'Lições Básicas de Português', videoId: 'wKLnFwhci38' },
-  { id: '6', title: 'Lendo Palavras do Cotidiano', videoId: 'vUeHBG9w-LM' },
-  { id: '7', title: 'Como Escrever seu Nome e Endereço', videoId: 'ktnMLOPyHo8' },
-  { id: '8', title: 'Aprendendo Números e Letras', videoId: 'GbWR4RTfg5s' },
-  { id: '9', title: 'Reconhecendo Sons das Letras', videoId: 'A5_hyvhCsAQ' },
-  { id: '10', title: 'Ler e Escrever com Confiança', videoId: 'UyzWLqaLvWA' },
+  { id: '1', title: 'Andragogia: A Ciência do Aprendizado para Adultos', videoId: 'R8-B6BogMkk' },
+  { id: '2', title: 'Aprendizagem de Adultos: Princípios e Métodos', videoId: 'lMDwbJsAloQ' },
+  { id: '3', title: 'Os Seis Princípios Fundamentais da Aprendizagem de Adultos', videoId: 'uedwcNqOL1A' },
+  { id: '4', title: 'Como os Adultos Aprendem Melhor - Técnicas Práticas', videoId: '5MgBikgcWnY' },
 ];
+
+
 
 
 export default function VideoListScreen() {
@@ -54,7 +51,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'center',
     marginVertical: 10,
-    color: '#333',
+    color: 'blue',
   },
   subheader: {
     fontSize: 16,

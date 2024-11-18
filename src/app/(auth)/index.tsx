@@ -17,20 +17,21 @@ export default function PublicScreen() {
         signOut={signOut}
       />
       <View style={styles.content}>
-  <Text style={styles.title}>Explore e Domine Novas Habilidades!</Text>
-  <Text style={styles.subtitle}>Com vídeos feitos para você aprender no seu ritmo.</Text>
-  
-  <Text style={styles.description}>
-    - Acesse vídeos educativos de alta qualidade.
-    - Organize seus estudos e acompanhe o progresso.
-    - Amplie seus conhecimentos com conteúdos atualizados.
-    - Nunca é tarde para aprender.
-  </Text>
-  
-  <Text style={styles.callToAction}>Comece sua jornada de aprendizado hoje mesmo! </Text>
-  <VideoListScreen/>
-</View>
+        <Text style={styles.title}>Explore e Domine Novas Habilidades!</Text>
+        <Text style={styles.subtitle}>Com vídeos feitos para você aprender no seu ritmo.</Text>
 
+        <Text style={styles.description}>
+          - Acesse vídeos educativos de alta qualidade.
+          - Nunca é tarde para aprender.
+        </Text>
+
+        <Text style={styles.callToAction}>Comece sua jornada de aprendizado hoje mesmo! </Text>
+      </View>
+
+     <View style={{flex: 2 , padding: 10}}>
+     <VideoListScreen />
+
+     </View>
     </View>
   );
 
@@ -39,7 +40,6 @@ export default function PublicScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
   },
   content: {
     flex: 1,
@@ -49,6 +49,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 10,
+    color: "blue",
   },
   subtitle: {
     fontSize: 16,
