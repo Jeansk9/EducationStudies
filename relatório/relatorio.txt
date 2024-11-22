@@ -20,11 +20,11 @@ Atividades Realizadas:
 
 Configuração do ambiente de desenvolvimento para todos os integrantes do grupo.
 Suporte técnico na integração do login e na estruturação da navegação entre as páginas.
-Desafios Enfrentados:VINICIOS TEIXEIRA   RA:
+Desafios Enfrentados:   RA:
 
 Alguns problemas com dependências e versões de bibliotecas foram identificados e corrigidos durante o processo.
 Integrante: 
-Atividades Realizadas:
+Atividades Realizadas:Vinicius Teixeira Tamasauskas   RA:202302381642
 
 Auxílio na criação da lógica do login e testes para validação do fluxo de autenticação.
 Colaboração no ajuste final do layout e organização do código para melhor entendimento.
