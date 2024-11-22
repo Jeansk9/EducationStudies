@@ -19,10 +19,10 @@ expo start
 ---
 
 
-Introdução
+## Introdução <br>
 O Education Studies é um aplicativo móvel desenvolvido para auxiliar no aprendizado de pessoas adultas com dificuldades de alfabetização. Este aplicativo é voltado para atender a um público que enfrenta desafios relacionados à leitura e escrita, oferecendo uma interface intuitiva e amigável.
 
-Objetivo do Aplicativo
+## Objetivo do Aplicativo <br>
 O principal objetivo do aplicativo é proporcionar uma experiência de aprendizado inclusiva e acessível. Por meio de vídeos educativos, exercícios interativos e uma navegação simples, o aplicativo busca:
 
 Ajudar os usuários a aprenderem a reconhecer sons e letras.
@@ -35,6 +35,6 @@ Navegação Intuitiva: Interface acessível que facilita o uso para pessoas com 
 Público-Alvo
 O aplicativo é focado em adultos que desejam superar barreiras relacionadas à alfabetização, proporcionando um recurso prático para apoiar o aprendizado.
 
-Tecnologia
+## Tecnologia <br>
 Desenvolvido com React Native e o framework Expo, o aplicativo garante uma experiência fluida em dispositivos Android e iOS, além de ser facilmente escalável para futuras melhorias.
 
