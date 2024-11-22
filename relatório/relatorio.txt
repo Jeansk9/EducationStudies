@@ -1,1 +1,35 @@
-Aqui você
+Relatório de Desenvolvimento do Projeto
+Integrante: Evellyn Ellen da Silva    RA:202302872409
+Atividades Realizadas:
+
+Implementação do sistema de login com confirmação via Google.
+Criação da funcionalidade de redirecionamento automático para a página de vídeos após login bem-sucedido.
+Desafios Enfrentados:
+
+Configuração inicial da API do Google para autenticação foi desafiadora devido à necessidade de entender os requisitos de permissão e configuração no console de desenvolvedores.
+Integrante:JEAN CARLOS DA SILVA NEVES     RA: 202202140295
+Atividades Realizadas:
+
+Estruturação da página de vídeos, incluindo layout responsivo e integração básica com o backend.
+Testes para garantir que o redirecionamento da página de login funcione corretamente.
+Desafios Enfrentados:
+
+Ajustar o design da página para compatibilidade em diferentes dispositivos foi um ponto que exigiu mais tempo.
+Integrante:EMILLY ARAÚJO MARQUES    RA:202303801841
+Atividades Realizadas:
+
+Configuração do ambiente de desenvolvimento para todos os integrantes do grupo.
+Suporte técnico na integração do login e na estruturação da navegação entre as páginas.
+Desafios Enfrentados:VINICIOS TEIXEIRA   RA:
+
+Alguns problemas com dependências e versões de bibliotecas foram identificados e corrigidos durante o processo.
+Integrante: 
+Atividades Realizadas:
+
+Auxílio na criação da lógica do login e testes para validação do fluxo de autenticação.
+Colaboração no ajuste final do layout e organização do código para melhor entendimento.
+Desafios Enfrentados:
+
+Familiarização com as ferramentas e linguagens utilizadas, dado o prazo curto do projeto.
+Motivo para não implementar Inteligência Artificial
+A equipe discutiu a possibilidade de integrar inteligência artificial ao projeto, mas devido ao tempo limitado e à falta de conhecimento avançado sobre o tema, optou-se por priorizar funcionalidades essenciais, como login e navegação. Além disso, a IA não era imprescindível para o objetivo inicial do aplicativo, que focava em entregar uma experiência funcional e prática aos usuários.
