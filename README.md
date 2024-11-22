@@ -1,10 +1,11 @@
----
-## Pré-requisitos
+
+## Pré-requisitos <br>
 - Node.js (versão 14 ou superior)
 - Gerenciador de pacotes `npm` ou `yarn`
 - Expo CLI instalado globalmente:
 npm install -g expo-cli
-Instalação
+
+## Instalação <br>
 1. Clone o repositório:
 git clone https://github.com/Jeansk9/EducationStudies.git
 2. Acesse o diretório do projeto:
@@ -13,10 +14,10 @@ cd EducationStudies
 npm install
 Ou, se estiver usando `yarn`:
 yarn install
-Executando o Projeto
+## Executando o Projeto <br>
 1. Inicie o servidor de desenvolvimento do Expo:
 expo start
----
+
 
 
 ## Introdução <br>
