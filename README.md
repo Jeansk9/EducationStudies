@@ -6,12 +6,9 @@
   npm install -g expo-cli
 
 
-
----
-
- **Instalação**
+## **Instalação**
 ```markdown
- **Instalação**
+## **Instalação**
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Jeansk9/EducationStudies.git
@@ -22,9 +19,7 @@
 
 
 
----
-
- **Executando o Projeto**
+## **Executando o Projeto**
 ```markdown
  **Executando o Projeto**
 1. Inicie o servidor de desenvolvimento do Expo:
